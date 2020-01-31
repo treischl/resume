@@ -5,8 +5,14 @@
       "company": "TD Ameritrade",
       "position": "Software Developer II",
       "startDate": "2014-09-02",
-      "keywords": ["fullstack", "agile"],
-      "summary": "My role is to provide fullstack interoperability solutions based upon requirements taken directly from end users."
+      "summary": "Provide fullstack solutions to internal clients. Work directly with clients to gather requirements and resolve issues. Train and mentor junior members of the team.",
+      "keywords": ["csharp", "asp.net", "javascript", "react", "mssql"],
+      "highlights": [
+        "First member of new team focused on increasing associate efficiency through line of business applications.",
+        "Directly responsible for $2.5M in cost savings to the business.",
+        "Built ticketing system used by the team that integrates with Jira and Salesforce.",
+        "Wrote several libraries used by the team to interface with various internal systems."
+      ]
     },
     {
       "company": "TD Ameritrade",
