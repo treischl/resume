@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/resume",
+  "education": [
+    {
+      "studyType": "B.A.",
+      "area": "Economics",
+      "institution": "University of California, Santa Barbara",
+      "startDate": "2003-09-22",
+      "endDate": "2009-06-12"
+    }
+  ]
+}

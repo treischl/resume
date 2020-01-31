@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/resume",
+  "skills": [
+    {
+      "name": "SPA Development",
+      "level": "Advanced",
+      "keywords": ["javascript", "typescript", "react"]
+    },
+    {
+      "name": "Microsoft Stack",
+      "level": "Advanced",
+      "keywords": ["csharp", "asp.net", "mssql"]
+    }
+  ]
+}
