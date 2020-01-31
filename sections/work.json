@@ -5,25 +5,39 @@
       "company": "TD Ameritrade",
       "position": "Software Developer II",
       "startDate": "2014-09-02",
-      "keywords": ["fullstack", "agile"],
-      "summary": "My role is to provide fullstack interoperability solutions based upon requirements taken directly from end users."
+      "summary": "Provide fullstack solutions to internal clients. Work directly with clients to gather requirements and resolve issues. Train and mentor junior members of the team.",
+      "keywords": ["csharp", "asp.net", "javascript", "react", "mssql"],
+      "highlights": [
+        "First member of new team focused on increasing associate efficiency through line of business applications.",
+        "Directly responsible for $2.5M in cost savings to the business.",
+        "Built ticketing system used by the team that integrates with Jira and Salesforce.",
+        "Wrote several libraries used by the team to interface with various internal systems."
+      ]
     },
     {
       "company": "TD Ameritrade",
       "position": "Risk Specialist",
       "startDate": "2013-07-08",
       "endDate": "2014-09-02",
-      "keywords": ["citizen developer"],
-      "summary": "I built and expanded Office applications and scripts for a Risk Management group in addition to risk management (non-development) related duties."
+      "summary": "Citizen developer for an internal risk management group.",
+      "keywords": ["csharp", "msaccess"],
+      "highlights": [
+        "Built an application that automated entry of Salesforce data, reducing a job that took several hours per month to seconds.",
+        "Maintained and enhanced several automated reports for the group."
+      ]
     },
     {
       "company": "TD Ameritrade",
       "position": "Trading Associate",
       "startDate": "2011-04-30",
       "endDate": "2013-07-08",
-      "keywords": ["citizen developer"],
-      "summary": "In the alternative investments group, I maintained and expanded Office applications and other scripts used by the group. Additionally, I interfaced with other citizen developers throughout the business.",
-      "highlights": ["Passed the Series 7, 63, and 24 exams"]
+      "summary": "Citizen developer for the alternative investments group.",
+      "keywords": ["csharp", "mssql"],
+      "highlights": [
+        "Built an application that was responsible for processing of and reporting on annual billing.",
+        "Maintained and enhanced an application responsible for processing all checks received by the group.",
+        "Passed Series 7, 63, and 24 exams."
+      ]
     }
   ]
 }
