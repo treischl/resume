@@ -13,8 +13,12 @@
       "position": "Risk Specialist",
       "startDate": "2013-07-08",
       "endDate": "2014-09-02",
-      "keywords": ["citizen developer"],
-      "summary": "I built and expanded Office applications and scripts for a Risk Management group in addition to risk management (non-development) related duties."
+      "summary": "Citizen developer for an internal risk management group.",
+      "keywords": ["csharp", "msaccess"],
+      "highlights": [
+        "Built an application that automated entry of Salesforce data, reducing a job that took several hours per month to seconds.",
+        "Maintained and enhanced several automated reports for the group."
+      ]
     },
     {
       "company": "TD Ameritrade",
