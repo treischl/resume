@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json.schemastore.org/resume",
+  "work": [
+    {
+      "company": "TD Ameritrade",
+      "position": "Software Developer II",
+      "startDate": "2014-09-02",
+      "keywords": ["fullstack", "agile"],
+      "summary": "My role is to provide fullstack interoperability solutions based upon requirements taken directly from end users."
+    },
+    {
+      "company": "TD Ameritrade",
+      "position": "Risk Specialist",
+      "startDate": "2013-07-08",
+      "endDate": "2014-09-02",
+      "keywords": ["citizen developer"],
+      "summary": "I built and expanded Office applications and scripts for a Risk Management group in addition to risk management (non-development) related duties."
+    },
+    {
+      "company": "TD Ameritrade",
+      "position": "Trading Associate",
+      "startDate": "2011-04-30",
+      "endDate": "2013-07-08",
+      "keywords": ["citizen developer"],
+      "summary": "In the alternative investments group, I maintained and expanded Office applications and other scripts used by the group. Additionally, I interfaced with other citizen developers throughout the business.",
+      "highlights": ["Passed the Series 7, 63, and 24 exams"]
+    }
+  ]
+}

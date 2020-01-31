@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json.schemastore.org/resume",
+  "basics": {
+    "name": "Tristan Reischl",
+    "label": "Software Developer",
+    "email": "treischl@gmail.com",
+    "location": {
+      "city": "San Diego",
+      "region": "CA"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "treischl",
+        "url": "https://github.com/treischl"
+      },
+      {
+        "network": "stack overflow",
+        "username": "tristan-reischl",
+        "url": "https://stackoverflow.com/users/4764487/tristan-reischl"
+      }
+    ]
+  }
+}
